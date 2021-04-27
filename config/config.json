@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "postgres",
+    "username": "backend",
+    "password": "111",
     "database": "waysgallery",
     "host": "10.0.100.45",
     "dialect": "postgres"
@@ -14,7 +14,7 @@
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "DATABASE_URL",
+    "use_env_variable": "10.0.100.45",
     "dialect": "postgres",
     "protocol": "postgres"
   }
