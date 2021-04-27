@@ -4,7 +4,7 @@
     "password": "postgres",
     "database": "waysgallery",
     "host": "10.0.100.45",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
