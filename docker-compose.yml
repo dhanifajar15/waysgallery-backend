@@ -1,8 +1,1 @@
-version: '3.8'
-services:
-  waysgallery-backend:
-     container_name: waysgallery-backend
-     image: dhanifajar15/waysgallery-backend
-     stdin_open: true
-     ports:
-       - 5000:5000
+/var/docker-compose/docker-compose.yml
